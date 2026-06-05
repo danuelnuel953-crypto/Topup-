@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/index.css">
+  <script src="js/index.js"></script>
+  <title>Bljr.html</title>
+</head>
+<body>
+	<h1>Bljr.html</h1>
+</body>
+</html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>TopUp Game Murah, Cepat & Aman | Nama Brand</title>
+
+    <meta name="description" content="Website top up game terpercaya dengan proses instan, harga kompetitif, pembayaran lengkap, dan layanan pelanggan responsif.">
+    <meta name="keywords" content="top up game, topup game murah, diamond ml, uc pubg, ff diamond, game voucher">
+    <meta name="author" content="Nama Brand">
+    <meta name="robots" content="index, follow">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="TopUp Game Murah, Cepat & Aman">
+    <meta property="og:description" content="Top up game instan dengan harga terbaik dan metode pembayaran lengkap.">
+    <meta property="og:image" content="assets/images/og-image.jpg">
+    <meta property="og:url" content="https://www.domainanda.com">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="TopUp Game Murah, Cepat & Aman">
+    <meta name="twitter:description" content="Top up game instan dan terpercaya untuk semua game favorit Anda.">
+    <meta name="twitter:image" content="assets/images/og-image.jpg">
+
+    <link rel="canonical" href="https://www.domainanda.com">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header class="site-header">
+        <div class="container">
+
+            <div class="header-wrapper">
+
+                <a href="/" class="logo" aria-label="Homepage">
+                    <img src="assets/images/logo.svg" alt="Logo Nama Brand">
+                </a>
+
+                <button
+                    class="mobile-menu-button"
+                    aria-label="Buka menu navigasi"
+                    aria-expanded="false"
+                    aria-controls="main-navigation">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+
+                <nav id="main-navigation" class="main-navigation">
+
+                    <ul class="navigation-list">
+                        <li>
+                            <a href="#popular-games">Game Populer</a>
+                        </li>
+                        <li>
+                            <a href="#how-it-works">Cara Top Up</a>
+                        </li>
+                        <li>
+                            <a href="#payment-methods">Pembayaran</a>
+                        </li>
+                        <li>
+                            <a href="#testimonials">Ulasan</a>
+                        </li>
+                        <li>
+                            <a href="#faq">FAQ</a>
+                        </li>
+                    </ul>
+
+                </nav>
+
+            </div>
+
+        </div>
+    </header>
+
+    <!-- MAIN -->
+    <main>
+
+        <!-- HERO -->
+        <section class="hero-section">
+            <div class="container">
+
+                <div class="hero-content">
+
+                    <span class="hero-badge">
+                        Top Up Game Instan & Terpercaya
+                    </span>
+
+                    <h1>
+                        Top Up Game Favoritmu Lebih Cepat,
+                        Aman dan Harga Bersahabat
+                    </h1>
+
+                    <p>
+                        Nikmati proses top up otomatis 24 jam,
+                        metode pembayaran lengkap, dan layanan pelanggan
+                        yang siap membantu kapan saja.
+                    </p>
+
+                    <div class="hero-actions">
+                        <a href="#popular-games" class="primary-button">
+                            Top Up Sekarang
+                        </a>
+
+                        <a href="#how-it-works" class="secondary-button">
+                            Pelajari Cara Kerja
+                        </a>
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+
+        <!-- FEATURES -->
+        <section class="features-section">
+            <div class="container">
+
+                <div class="section-heading">
+                    <h2>Kenapa Memilih Kami?</h2>
+                    <p>
+                        Dirancang untuk memberikan pengalaman top up terbaik.
+                    </p>
+                </div>
+
+                <div class="feature-grid">
+
+                    <article class="feature-card">
+                        <h3>Proses Instan</h3>
+                        <p>
+                            Pesanan diproses secara otomatis dalam hitungan detik.
+                        </p>
+                    </article>
+
+                    <article class="feature-card">
+                        <h3>Pembayaran Lengkap</h3>
+                        <p>
+                            Mendukung transfer bank, e-wallet, QRIS, dan lainnya.
+                        </p>
+                    </article>
+
+                    <article class="feature-card">
+                        <h3>Keamanan Terjamin</h3>
+                        <p>
+                            Data pelanggan dilindungi dengan standar keamanan modern.
+                        </p>
+                    </article>
+
+                    <article class="feature-card">
+                        <h3>Layanan 24/7</h3>
+                        <p>
+                            Tim support siap membantu kapan pun dibutuhkan.
+                        </p>
+                    </article>
+
+                </div>
+
+            </div>
+        </section>
+
+        <!-- POPULAR GAMES -->
+        <section id="popular-games" class="popular-games-section">
+
+            <div class="container">
+
+                <div class="section-heading">
+                    <h2>Game Populer</h2>
+                    <p>
+                        Pilih game favorit Anda untuk melakukan top up.
+                    </p>
+                </div>
+
+                <div class="games-grid">
+
+                    <article class="game-card">
+                        <a href="#">
+                            <img src="assets/images/games/mobile-legends.webp" alt="Mobile Legends">
+                            <h3>Mobile Legends</h3>
+                        </a>
+                    </article>
+
+                    <article class="game-card">
+                        <a href="#">
+                            <img src="assets/images/games/free-fire.webp" alt="Free Fire">
+                            <h3>Free Fire</h3>
+                        </a>
+                    </article>
+
+                    <article class="game-card">
+                        <a href="#">
+                            <img src="assets/images/games/pubg-mobile.webp" alt="PUBG Mobile">
+                            <h3>PUBG Mobile</h3>
+                        </a>
+                    </article>
+
+                    <article class="game-card">
+                        <a href="#">
+                            <img src="assets/images/games/honor-of-kings.webp" alt="Honor of Kings">
+                            <h3>Honor of Kings</h3>
+                        </a>
+                    </article>
+
+                    <article class="game-card">
+                        <a href="#">
+                            <img src="assets/images/games/genshin-impact.webp" alt="Genshin Impact">
+                            <h3>Genshin Impact</h3>
+                        </a>
+                    </article>
+
+                    <article class="game-card">
+                        <a href="#">
+                            <img src="assets/images/games/valorant.webp" alt="Valorant">
+                            <h3>Valorant</h3>
+                        </a>
+                    </article>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- STATS -->
+        <section class="statistics-section">
+
+            <div class="container">
+
+                <div class="statistics-grid">
+
+                    <div class="stat-item">
+                        <strong>1.000.000+</strong>
+                        <span>Transaksi Berhasil</span>
+                    </div>
+
+                    <div class="stat-item">
+                        <strong>500.000+</strong>
+                        <span>Pelanggan Aktif</span>
+                    </div>
+
+                    <div class="stat-item">
+                        <strong>24/7</strong>
+                        <span>Layanan Otomatis</span>
+                    </div>
+
+                    <div class="stat-item">
+                        <strong>99%</strong>
+                        <span>Tingkat Kepuasan</span>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- HOW IT WORKS -->
+        <section id="how-it-works" class="how-it-works-section">
+
+            <div class="container">
+
+                <div class="section-heading">
+                    <h2>Cara Melakukan Top Up</h2>
+                    <p>
+                        Hanya membutuhkan beberapa langkah sederhana.
+                    </p>
+                </div>
+
+                <div class="steps-grid">
+
+                    <article class="step-card">
+                        <h3>1. Pilih Game</h3>
+                        <p>
+                            Pilih game yang ingin Anda isi saldo atau diamond.
+                        </p>
+                    </article>
+
+                    <article class="step-card">
+                        <h3>2. Masukkan ID</h3>
+                        <p>
+                            Isi User ID dan informasi akun sesuai kebutuhan.
+                        </p>
+                    </article>
+
+                    <article class="step-card">
+                        <h3>3. Pilih Nominal</h3>
+                        <p>
+                            Tentukan nominal top up yang diinginkan.
+                        </p>
+                    </article>
+
+                    <article class="step-card">
+                        <h3>4. Bayar</h3>
+                        <p>
+                            Selesaikan pembayaran melalui metode yang tersedia.
+                        </p>
+                    </article>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- PAYMENT METHODS -->
+        <section id="payment-methods" class="payment-methods-section">
+
+            <div class="container">
+
+                <div class="section-heading">
+                    <h2>Metode Pembayaran</h2>
+                    <p>
+                        Beragam pilihan pembayaran untuk kenyamanan Anda.
+                    </p>
+                </div>
+
+                <div class="payment-grid">
+
+                    <div class="payment-item">
+                        <img src="assets/images/payments/qris.svg" alt="QRIS">
+                    </div>
+
+                    <div class="payment-item">
+                        <img src="assets/images/payments/dana.svg" alt="DANA">
+                    </div>
+
+                    <div class="payment-item">
+                        <img src="assets/images/payments/gopay.svg" alt="GoPay">
+                    </div>
+
+                    <div class="payment-item">
+                        <img src="assets/images/payments/ovo.svg" alt="OVO">
+                    </div>
+
+                    <div class="payment-item">
+                        <img src="assets/images/payments/bca.svg" alt="BCA">
+                    </div>
+
+                    <div class="payment-item">
+                        <img src="assets/images/payments/bri.svg" alt="BRI">
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- TESTIMONIALS -->
+        <section id="testimonials" class="testimonials-section">
+
+            <div class="container">
+
+                <div class="section-heading">
+                    <h2>Apa Kata Pelanggan?</h2>
+                </div>
+
+                <div class="testimonial-grid">
+
+                    <article class="testimonial-card">
+                        <p>
+                            "Proses sangat cepat dan harga lebih murah dibanding tempat lain."
+                        </p>
+                        <h3>Andi</h3>
+                    </article>
+
+                    <article class="testimonial-card">
+                        <p>
+                            "Sudah berkali-kali top up dan selalu lancar."
+                        </p>
+                        <h3>Rizky</h3>
+                    </article>
+
+                    <article class="testimonial-card">
+                        <p>
+                            "Pembayarannya lengkap dan customer service responsif."
+                        </p>
+                        <h3>Fajar</h3>
+                    </article>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- FAQ -->
+        <section id="faq" class="faq-section">
+
+            <div class="container">
+
+                <div class="section-heading">
+                    <h2>Pertanyaan Umum</h2>
+                </div>
+
+                <div class="faq-list">
+
+                    <details>
+                        <summary>Berapa lama proses top up?</summary>
+                        <p>
+                            Sebagian besar transaksi diproses secara instan dalam hitungan detik.
+                        </p>
+                    </details>
+
+                    <details>
+                        <summary>Apakah website ini aman?</summary>
+                        <p>
+                            Ya, transaksi dan data pelanggan dilindungi dengan sistem keamanan yang baik.
+                        </p>
+                    </details>
+
+                    <details>
+                        <summary>Bagaimana jika pesanan belum masuk?</summary>
+                        <p>
+                            Hubungi tim customer support melalui kanal bantuan yang tersedia.
+                        </p>
+                    </details>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- CTA -->
+        <section class="cta-section">
+
+            <div class="container">
+
+                <div class="cta-content">
+
+                    <h2>
+                        Siap Melakukan Top Up?
+                    </h2>
+
+                    <p>
+                        Dapatkan harga terbaik dan proses instan sekarang juga.
+                    </p>
+
+                    <a href="#popular-games" class="primary-button">
+                        Mulai Top Up
+                    </a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+
+        <div class="container">
+
+            <div class="footer-grid">
+
+                <section class="footer-column">
+                    <h2>Nama Brand</h2>
+                    <p>
+                        Platform top up game terpercaya dengan layanan cepat dan aman.
+                    </p>
+                </section>
+
+                <section class="footer-column">
+                    <h2>Navigasi</h2>
+
+                    <ul>
+                        <li><a href="#">Beranda</a></li>
+                        <li><a href="#">Game</a></li>
+                        <li><a href="#">Promo</a></li>
+                        <li><a href="#">Bantuan</a></li>
+                    </ul>
+                </section>
+
+                <section class="footer-column">
+                    <h2>Legal</h2>
+
+                    <ul>
+                        <li><a href="#">Kebijakan Privasi</a></li>
+                        <li><a href="#">Syarat & Ketentuan</a></li>
+                        <li><a href="#">Refund Policy</a></li>
+                    </ul>
+                </section>
+
+                <section class="footer-column">
+                    <h2>Kontak</h2>
+
+                    <ul>
+                        <li>Email: support@domainanda.com</li>
+                        <li>WhatsApp: +62xxxxxxxxxx</li>
+                    </ul>
+                </section>
+
+            </div>
+
+            <div class="footer-bottom">
+                <p>
+                    &copy; 2026 Nama Brand. Seluruh Hak Cipta Dilindungi.
+                </p>
+            </div>
+
+        </div>
+
+    </footer>
+
+    <script src="main.js"></script>
+
+</body>
+</html>
